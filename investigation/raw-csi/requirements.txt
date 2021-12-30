@@ -1,0 +1,7 @@
+ipython
+ipykernel
+
+pywavelets==1.1.1
+scipy
+numpy
+matplotlib
